@@ -197,7 +197,7 @@ After completing this project, you will understand:
 
 **Your Name**
 
-GitHub: [YOUR-GITHUB-USERNAME](https://github.com/YOUR-USERNAME)
+GitHub: artij07(https://github.com/artij07)
 
 ## 📄 License
 
