@@ -84,11 +84,9 @@ python3 --version
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/python-client-server-model.git
-cd python-client-server-model
+git clone https://github.com/artij07/Client_Server-Model.git
+cd Client_Server-Model
 ```
-
-Replace `YOUR-USERNAME` with your GitHub username after publishing the repository.
 
 ### Step 2: Run the server
 
@@ -140,31 +138,6 @@ Expected server output includes the client's address and message.
 | `sendall()` | Sends data through a socket |
 | `recv()` | Receives data through a socket |
 
-## 🖼️ Screenshots and Images
-
-Add screenshots of your actual project execution to the `images/` folder.
-
-### 1. Client-Server Architecture
-
-Save a diagram as `images/architecture.png` showing the client, TCP connection, server, request, and response.
-
-### 2. Server Execution
-
-Save a screenshot as `images/server-output.png` showing the server waiting for a client and displaying the received message.
-
-### 3. Client Execution
-
-Save a screenshot as `images/client-output.png` showing the server's reply in the client terminal.
-
-Once these files exist, display them in this README using:
-
-```markdown
-![Client-Server Architecture](images/architecture.png)
-
-![Server Output](images/server-output.png)
-
-![Client Output](images/client-output.png)
-```
 
 ## 📚 Learning Outcomes
 
@@ -195,10 +168,7 @@ After completing this project, you will understand:
 
 ## 👩‍💻 Author
 
-**Your Name**
+**Arti S. Jadhav**
 
 GitHub: artij07(https://github.com/artij07)
 
-## 📄 License
-
-This project is available for educational and learning purposes. You may add an MIT License if you want to allow reuse under its terms.
