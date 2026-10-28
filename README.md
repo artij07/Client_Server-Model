@@ -35,14 +35,10 @@ python-client-server-model/
 ├── client.py
 ├── server.py
 ├── README.md
-├── images/
-│   ├── architecture.png
-│   ├── server-output.png
-│   └── client-output.png
+├── client'.png
+├── server'.png
+├── Client_Server Model.png
 └── NOTES.md
-```
-
-The image files are suggested screenshot names. Add your own screenshots to the `images` folder.
 
 ## 🏗️ System Architecture
 
